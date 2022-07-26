@@ -51,7 +51,7 @@ const option="bg-slate-200  w-10 md:w-36 h-10 px-4 py-2 border-b-2 border-slate-
 <div className="w-full py-4 bg-violet-800  text-slate-200 text-xl md:text-4xl font-bold text-center">
 <Heading size="page" >ExportVid<sub className="text-slate-300 text-sm">by arz</sub></Heading>
 </div>
-<p className="w-full md:w-7/12 text-sm md:text-xl  py-2 my-6 md:my-24 mx-auto px-4 capitalize text-slate-600 shadow-2xl">download video without any add</p>
+<p className="w-full md:w-7/12 text-sm md:text-xl  py-2 my-6 md:my-24 mx-auto px-4 capitalize text-slate-600 shadow-2xl">download video without any ad</p>
 
 <div className="w-full md:w-8/12 flex flex-col md:flex-row  items-center md:items-start  justify-between md:justify-center  mx-auto ">
 <div calssName="w-full flex flex-col items-start justify-center ">
